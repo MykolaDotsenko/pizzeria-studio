@@ -7,7 +7,7 @@
 
 **A production-minded, local-first pizzeria menu editor built to demonstrate reliable React and TypeScript engineering without unnecessary backend complexity.**
 
-[**Open the live app →**](https://pizza-react-typescript.vercel.app) · [Architecture](./ARCHITECTURE.md) · [Browser tests](./e2e/menu.spec.ts) · [Screenshot test](./e2e/screenshots.spec.ts)
+[**Open the live app →**](https://pizzeria-studio.vercel.app) · [Architecture](./ARCHITECTURE.md) · [Browser tests](./e2e/menu.spec.ts) · [Screenshot test](./e2e/screenshots.spec.ts)
 
 ![Pizzeria Studio desktop interface](./docs/screenshots/pizzeria-desktop.png)
 
@@ -244,7 +244,7 @@ npm run test:e2e
 
 **Vercel is the canonical production deployment.**
 
-[https://pizza-react-typescript.vercel.app](https://pizza-react-typescript.vercel.app)
+[https://pizzeria-studio.vercel.app](https://pizzeria-studio.vercel.app)
 
 The application uses `BrowserRouter`. The repository therefore includes a Vercel SPA rewrite:
 
