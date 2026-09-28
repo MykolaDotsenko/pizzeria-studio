@@ -1,6 +1,6 @@
 # Pizzeria Studio
 
-[![CI](https://github.com/MykolaDotsenko/Pizzeria-React-Typescript-Project/actions/workflows/ci.yml/badge.svg)](https://github.com/MykolaDotsenko/Pizzeria-React-Typescript-Project/actions/workflows/ci.yml)
+[![CI](https://github.com/MykolaDotsenko/pizzeria-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/MykolaDotsenko/pizzeria-studio/actions/workflows/ci.yml)
 ![React 19](https://img.shields.io/badge/React-19.3-149ECA?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
